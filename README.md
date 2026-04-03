@@ -1,6 +1,3 @@
-***
-
-```markdown
 # 🛡️ Agent-Dome: Autonomous Threat-Response Pipeline
 
 Agent-Dome is an enterprise-grade, microservices-based architecture designed to simulate, ingest, and autonomously analyze network traffic for cybersecurity threats. 
